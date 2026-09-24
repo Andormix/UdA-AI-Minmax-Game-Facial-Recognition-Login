@@ -7,13 +7,7 @@
 [![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Academic Project](https://img.shields.io/badge/Project-M4%20REPTE-003366?style=for-the-badge)](#)
 
-<p align="center">
-  <img
-    src="docs/ai-board-game-banner.svg"
-    alt="Splatoon AI strategy board game"
-    width="100%"
-  />
-</p>
+<img width="1177" height="716" alt="frg" src="https://github.com/user-attachments/assets/2295fbd3-1b31-473f-b9a1-299ee4464134" />
 
 **Splatoon** is a Python board game where a human player competes against an artificial intelligence opponent.
 
@@ -82,6 +76,8 @@ The game itself is a turn-based board game. The player places pieces on the boar
 - Programmer mode for inspecting game states.
 - Replay system for completed matches.
 
+<img width="797" height="497" alt="image" src="https://github.com/user-attachments/assets/5669b572-3827-42d5-8a60-1abdb7c30255" />
+
 ### AI Features
 
 - Minimax algorithm.
@@ -91,6 +87,9 @@ The game itself is a turn-based board game. The player places pieces on the boar
 - Search-depth-based difficulty.
 - Board evaluation.
 - AI movement selection.
+
+<img width="2000" height="1181" alt="image" src="https://github.com/user-attachments/assets/6b5a452b-cd40-4ce4-a482-8631db7eeab6" />
+
 
 ### Authentication Features
 
