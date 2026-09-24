@@ -1,0 +1,1 @@
+textoEnWindow(window, text, flag)
