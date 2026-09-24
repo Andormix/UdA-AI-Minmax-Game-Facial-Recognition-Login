@@ -101,6 +101,8 @@ The game itself is a turn-based board game. The player places pieces on the boar
 - LBPH facial-recognition model.
 - Administrator account detection.
 - User rejection when the detected face does not match the requested nickname.
+  
+<img width="35%" alt="image" src="https://github.com/user-attachments/assets/12c672d8-4702-4fdf-abfd-65441570c264" />
 
 ### Database Features
 
@@ -113,6 +115,9 @@ The game itself is a turn-based board game. The player places pieces on the boar
 - Top-ten match scoreboard.
 - Top-five player scoreboard.
 - Match replay by match ID.
+
+<img width="2037" height="1128" alt="image" src="https://github.com/user-attachments/assets/ecd3f1a2-2675-4e68-95da-d2ab69b1bc64" />
+
 
 ---
 
