@@ -1,4 +1,4 @@
-# Splatoon — AI Strategy Board Game
+# Splatoon — AI Strategy Board Game With Facial Recognition Login
 
 [![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Pygame](https://img.shields.io/badge/Game-Pygame-00A86B?style=for-the-badge)](#)
